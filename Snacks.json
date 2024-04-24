@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Lays",
+        "price": 2.00,
+        "image": "pictures/Lays.png"
+    },
+    {
+        "id": 2,
+        "name": "Flaming Hot",
+        "price": 2.00,
+        "image": "pictures/FlamingHotFries.png"
+    },
+    {
+        "id": 3,
+        "name": "Fritos",
+        "price": 2.00,
+        "image": "pictures/Fritos.png"
+    },
+    {
+        "id": 4,
+        "name": "Honey Bun",
+        "price": 3.00,
+        "image": "pictures/Honey.png"
+    },
+    {
+        "id": 5,
+        "name": "Big Texas",
+        "price": 3.00,
+        "image": "pictures/BigTexas.png"
+    },
+    {
+        "id": 6,
+        "name": "Extra Gum",
+        "price": 1.00,
+        "image": "pictures/GumPack.webp"
+    },
+    {
+        "id": 7,
+        "name": "Reese's Bar",
+        "price": 1.00,
+        "image": "pictures/Reese.png"
+    },
+    {
+        "id": 8,
+        "name": "Oreos",
+        "price": 1.00,
+        "image": "pictures/oreo.png"
+    }
+]
